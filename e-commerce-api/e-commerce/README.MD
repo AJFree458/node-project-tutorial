@@ -27,7 +27,7 @@
 
 #### Morgan Pacakge
 
-- [Morgan Package](https://www.npmjs.com/package/morgan)
+- [x] [Morgan Package](https://www.npmjs.com/package/morgan)
 
 #### User Model
 
